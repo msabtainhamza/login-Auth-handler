@@ -8,3 +8,37 @@ Login-Handler is a React-based web application that aims to provide a seamless u
 - **React Fragments & Portals**: The project leverages the power of React fragments and portals to simplify the DOM structure and render children outside the DOM hierarchy.
 - **CSS Modules**: Styling is achieved using CSS modules, ensuring a modular and scoped styling approach.
 - **Direct DOM Manipulation**: With the help of `useRef()`, we've harnessed the power of direct DOM manipulation through `react-dom`.
+
+## Getting Started 🚀
+
+### Prerequisites
+Ensure you have `node` and `npm` (or `yarn`) installed on your local machine.
+
+### Installation
+1. Clone the repo
+```bash
+git clone https://github.com/msabtainhamza/login-Auth-handler.git
+```
+2. Navigate to the project directory
+```bash
+cd Login-Handler
+```
+3. Install the dependencies
+```bash
+npm install
+```
+or
+```bash
+yarn install
+```
+4. Start the development server
+```bash
+npm start
+```
+or
+```bash
+yarn start
+```
+
+## Contributing 🤝
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
